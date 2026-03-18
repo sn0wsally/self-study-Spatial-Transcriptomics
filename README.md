@@ -6,8 +6,12 @@
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
 
 ## Base study
-- Mouse Brain Analysis: Histological structure and genetic implementation cluster similarity analysis with Mouse Brain dataset from 10x Genomics (kaggle notebook link)
-- Tumor Microenvironment: genetic implementation difference analysis of tumor microenvironment with public cancer tissue ST data (kaggle notebook link)
+- Mouse Brain Analysis: Histological structure and genetic implementation cluster similarity analysis with Mouse Brain dataset from 10x Genomics
+<img width="1468" height="590" alt="image" src="https://github.com/user-attachments/assets/3f37b4ba-95c5-4bb6-b320-43f500b1d9e6" />
+
+- Tumor Microenvironment: genetic implementation difference analysis of tumor microenvironment with public cancer tissue ST data
+<img width="1475" height="590" alt="image" src="https://github.com/user-attachments/assets/3001fe37-f36f-4307-9e5f-3bde51bd1154" />
+
 
 ## 📌 Introduction
 This project aims to explore and analyze **Spatial Transcriptomics (ST)** data to uncover the spatial organization of gene expression within tissues. Leveraging the power of **Scanpy** and **Squidpy**, this repository contains an end-to-end pipeline for processing, clustering, and identifying spatially variable genes (SVGs) from 10x Genomics Visium datasets.
