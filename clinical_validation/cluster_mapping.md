@@ -26,6 +26,20 @@ This section uses Spatial Transcriptomics analysis result (**Unsupervised Cluste
 | Endothelial Cells                      | PECAM1 (CD31), VWF, CD34, CLDN5                              |
 | Pericytes                              | PDGFRB, RGS5, CSPG4                                          |
 
+Based on the table above, a dictionary was formed and filtered as using the list of genes that are actually present in the data.
+This provides cluster mapping to actual clinical label;
+
+#### Scanpy dotplot
+![marker_dotplot](./assets/marker_mapping_result.png)
+
+Accordingly, the cluster : cell result is
+| Cluster | Cell | Reason (Description) |
+|---------|------|----------------------|
+|  0  |  Stroma  |  |
+|  1~7 | Tumor |  |
+|  8  |  Immune Cells  |  |
+
+Since the clustering from cluster 0 to cluster 8 is based on the spot, not by cells, this end up as such label mapping.
 ---
 
 ### 🔍 Validation Strategy
