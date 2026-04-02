@@ -50,14 +50,13 @@ This project demonstrates proficiency in **Bioinformatics** and **Data Science**
 6.  **Spatial Statistics**: Computing spatial neighbors graph and detecting SVGs.
 
 ## 📊 Sample Results
-*(Replace these descriptions with actual plots from your analysis)*
 
 | UMAP Projection | Spatial Clustering |
 |:---:|:---:|
-| ![UMAP](https://via.placeholder.com/400x300?text=UMAP+Plot) | ![Spatial](https://via.placeholder.com/400x300?text=Spatial+Plot) |
-| *Clustering based on gene expression* | *Clusters mapped onto tissue image* |
+| ![UMAP](./clinical_validation/assets/tme_umap.png) | ![Spatial](./clinical_validation/assets/tme_cluster.png) |
+| *Sequence clustering based on gene expression* | *Clusters mapped onto tissue image* |
 
-> **Insight:** The analysis revealed distinct spatial domains corresponding to [Specific Anatomical Region, e.g., the Hippocampus], characterized by the high expression of marker genes such as [Gene A] and [Gene B].
+> **Insight:** 
 
 ## 🚀 How to Run
 ```bash
