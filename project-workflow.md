@@ -1,21 +1,23 @@
 # Project Workflow
 
 ## 0. Base-study
-- [ ] mouse brain dataset clustering using spatial transcriptomics `Subin`
-- [ ] breast tumor dataset clustering using spatial transcriptomics `Subin`
-- [ ] literature review on 10x spatial transcriptomics `Subin` `Eugene` `Suah`
+- [x] mouse brain dataset clustering using spatial transcriptomics `Subin`
+- [x] breast tumor dataset clustering using spatial transcriptomics `Subin`
+- [x] literature review on 10x spatial transcriptomics `Subin` `Eugene` `Suah`
 
 ## 1. Dataset Preprocessing
 sequence
-- [ ] sequence clustering `Subin`
-- [ ] clinical validation (cluster mapping to clinical terminology) `Subin`
+- [x] sequence clustering `Subin`
+- [x] clinical validation (cluster mapping to clinical terminology) `Subin`
 - [ ] cluster noise cleansing `Subin` `Suah`
 
 image
-- [ ] dataset class coding `Eugene`
-- [ ] image patching `Suah` `Eugene`
+- [x] dataset class coding `Eugene`
+- [x] image patching `Suah` `Eugene`
 - [ ] image noise elimination `Suah`
 - [ ] pytorch base pipeline coding `Eugene`
+
+- [ ] image-label mapping
 
 ## 2. Base model Train & Evaluation
 - [ ] CNN + spatial transcriptomics
