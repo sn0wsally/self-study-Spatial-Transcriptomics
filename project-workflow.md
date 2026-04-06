@@ -17,6 +17,8 @@ image
 - [ ] image noise elimination `Suah`
 - [ ] pytorch base pipeline coding `Eugene`
 
+- [ ] workflow validation `Subin` `Eugene` `Suah`
+- [ ] image segmentation
 - [ ] image-label mapping
 
 ## 2. Base model Train & Evaluation
