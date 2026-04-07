@@ -42,12 +42,7 @@ This project demonstrates proficiency in **Bioinformatics** and **Data Science**
     * `Scikit-learn`: Machine learning utilities.
 
 ### Analysis Workflow
-1.  **Data Loading**: Reading 10x h5 files and spatial images.
-2.  **QC & Filtering**: Removing low-quality spots and mitochondrial genes.
-3.  **Normalization & Log Transformation**: Stabilizing variance.
-4.  **HVG Selection**: Identifying highly variable genes for feature selection.
-5.  **Integration (Optional)**: Batch correction if multiple slides are used.
-6.  **Spatial Statistics**: Computing spatial neighbors graph and detecting SVGs.
+Please read ![project workflow](./project-workflow.md)
 
 ## 📊 Sample Results
 
