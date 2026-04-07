@@ -42,7 +42,7 @@ This project demonstrates proficiency in **Bioinformatics** and **Data Science**
     * `Scikit-learn`: Machine learning utilities.
 
 ### Analysis Workflow
-Please read ![project workflow](./project-workflow.md)
+Please read [project workflow](./project-workflow.md)
 
 ## 📊 Sample Results
 
