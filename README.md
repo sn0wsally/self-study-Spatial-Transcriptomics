@@ -24,6 +24,7 @@ The goal is to bridge the gap between histology (morphology) and transcriptomics
 - **Spatial Clustering:** Identifying distinct tissue regions (spatial domains) using graph-based clustering (Leiden/Louvain).
 - **Spatially Variable Genes (SVGs):** Detecting genes with distinct spatial patterns using Moran’s I statistic or spatial autocorrelation.
 - **Visualization:** Integrating histology images with gene expression overlays.
+- **CV model training:** Based on the clinical mapping (annotation) from the previous steps, train deep learning model (computer vision) that can identify tumor cells and immune cells from stroma as a background.
 
 ## 📂 Dataset
 * **Source:** [e.g., 10x Genomics Visium Public Dataset - Adult Mouse Brain]
