@@ -16,7 +16,7 @@ image
 - [x] dataset class coding `Eugene`
 - [x] image patching `Suah` `Eugene`
 - [ ] ~~image noise elimination `Suah`~~
-- [ ] pytorch base pipeline coding `Eugene` -> 1at Revision due Apr 27
+- [ ] pytorch base pipeline coding `Eugene` -> 1st Revision due Apr 27
 
 - [x] workflow validation `Subin` `Eugene` `Suah`
 - [ ] ~~image segmentation -> Due May 4~~
