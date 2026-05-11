@@ -1,4 +1,4 @@
-## Dataset
+## Data augmentation - rotate / flip
 
 The augmented histology patch dataset was generated using Roboflow augmentation.
 
