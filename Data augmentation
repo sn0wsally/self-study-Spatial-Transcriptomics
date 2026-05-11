@@ -1,0 +1,14 @@
+## Dataset
+
+The augmented histology patch dataset was generated using Roboflow augmentation.
+
+Dataset download link:
+https://drive.google.com/file/d/1Za3HBidBmNYaowUfPrQYCxOLO6a0Hibt/view?usp=sharing
+
+Augmentation settings:
+
+* Horizontal Flip
+* Vertical Flip
+* Rotation ±10°
+* Resize 224×224
+* 2x image generation
