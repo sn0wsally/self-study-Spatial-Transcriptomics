@@ -16,24 +16,24 @@ image
 - [x] dataset class coding `Eugene`
 - [x] image patching `Suah` `Eugene`
 - [ ] ~~image noise elimination `Suah`~~
-- [ ] pytorch base pipeline coding `Eugene` -> 1st Revision due Apr 27
+- [x] pytorch base pipeline coding `Eugene` -> 1st Revision due Apr 27
 
 - [x] workflow validation `Subin` `Eugene` `Suah`
 - [ ] ~~image segmentation -> Due May 4~~
-- [ ] image(coord)-label(cluster) mapping `Subin` + `Eugene` -> Due May 4
+- [x] image(coord)-label(cluster) mapping `Subin` + `Eugene` -> Due May 4
 
 ## 2. Base model Train & Evaluation -> May 4 to 11
 - [ ] segformer (HistoGene) + spatial transcriptomics `Suah`
-- [ ] CNN + spatial transcriptomics `Subin` `Eugene`
+- [x] CNN + spatial transcriptomics `Subin` `Eugene`
 - [ ] ~~LLM-based + spatial transcriptomics~~
 - [ ] ~~SAM2 + spatial transcriptomics~~
 
 ## 3. Data augmentation -> Apr 30 to May 11
 - [ ] Linear Interpolation `Subin`
-- [ ] Color variation `Suah`
-- [ ] Rotation `Suah`
-- [ ] Flip `Suah`
-- [ ] Size variation `Suah`
+- [x] Color variation `Suah`
+- [x] Rotation `Suah`
+- [x] Flip `Suah`
+- [x] Size variation `Suah`
 
 ## 4. Experiment (Train & Evaluation) -> May 11 to 31
 - [ ] segformer (HistoGene) + spatial transcriptomics `Subin` `Eugene` `Suah`
